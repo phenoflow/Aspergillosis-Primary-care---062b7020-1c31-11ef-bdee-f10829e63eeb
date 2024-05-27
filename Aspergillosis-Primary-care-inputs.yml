@@ -1,0 +1,57 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/aspergillosis-primary-care-terreu---primary.py
+inputModule3:
+  class: File
+  path: python/aspergillosis-primary-care-bronchitis---primary.py
+inputModule4:
+  class: File
+  path: python/aspergillosis-primary-care-pneumonia---primary.py
+inputModule5:
+  class: File
+  path: python/aspergillosis-primary-care-clavatus---primary.py
+inputModule6:
+  class: File
+  path: python/aspergillosis-primary-care-antibody---primary.py
+inputModule7:
+  class: File
+  path: python/aspergillosis-primary-care-fumigatus---primary.py
+inputModule8:
+  class: File
+  path: python/aspergillosis-primary-care-precipitin---primary.py
+inputModule9:
+  class: File
+  path: python/nucleic-aspergillosis-primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/aspergillosis-primary-care-niger---primary.py
+inputModule11:
+  class: File
+  path: python/aspergillosis-primary-care-level---primary.py
+inputModule12:
+  class: File
+  path: python/aspergillosis-primary-care-species---primary.py
+inputModule13:
+  class: File
+  path: python/aspergillosis-primary-care-galactomannan---primary.py
+inputModule14:
+  class: File
+  path: python/aspergillosis-primary-care-antigen---primary.py
+inputModule15:
+  class: File
+  path: python/aspergillosis-primary-care-serology---primary.py
+inputModule16:
+  class: File
+  path: python/aspergillosis-primary-care-fungus---primary.py
+inputModule17:
+  class: File
+  path: python/pulmonary-aspergillosis-primary-care---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
